@@ -1,0 +1,55 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Override the two-column layout with a single column
+.wrapper {
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+header {
+  float: none;
+  width: 100%;
+  position: static;
+  text-align: center;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #e5e5e5;
+  margin-bottom: 30px;
+}
+
+section {
+  float: none;
+  width: 100%;
+  border-left: none;
+  padding-left: 0;
+  margin-left: 0;
+}
+
+// Improve readability in single column layout
+body {
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+// Center the footer content
+footer {
+  float: none;
+  width: 100%;
+  position: static;
+  text-align: center;
+  margin-top: 40px;
+  padding-top: 20px;
+  border-top: 1px solid #e5e5e5;
+}
+
