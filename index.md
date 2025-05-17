@@ -1,7 +1,3 @@
-# Katy Rotman
-
-## Senior Software Developer & Tech Lead
-
 Hands-on Senior Software Developer & Tech Lead specializing in cloud native systems (AWS/Kubernetes) & databases (SQL/NoSQL). 
 Proven ability to lead & deliver impactful results. Dedicated to continuous learning.
 
