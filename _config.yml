@@ -1,12 +1,6 @@
-title: Your Name
-description: Brief tagline or description
-logo: /assets/img/profile.jpg  # Add a profile picture if desired
-show_downloads: false
-
-# Required for GitHub Pages to use the theme
+title: Katy Rotman
+description: Senior Software Developer & Tech Lead
+logo: # Leave this empty for now or add path to an image
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
-# Optional Google Analytics
-# google_analytics: [your tracking ID]
+- jekyll-remote-theme
