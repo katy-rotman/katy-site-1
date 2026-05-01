@@ -1,9 +1,10 @@
-Hands-on Senior Software Developer & Tech Lead specializing in cloud native systems (AWS/Kubernetes) & databases (SQL/NoSQL). 
-Proven ability to lead & deliver impactful results. Dedicated to continuous learning.
+# Katy Rotman
+
+Engineering Team Lead & Senior Software Engineer specializing in cloud-native backend systems, production operations, and pragmatic technical leadership.
 
 ### About Me
 
-Passionate about technology and a lifelong learner, I'm a pragmatic tech leader with 15+ years of experience. I excel in end-to-end project ownership, precise task management, and empathetic collaboration, driving tangible results through close stakeholder engagement and proactive knowledge sharing.
+I lead engineering teams and build production-grade systems with 15+ years of experience. My focus is pragmatic technical leadership: owning systems end to end, mentoring engineers, and translating complex requirements into reliable, scalable solutions. I work across backend development, cloud infrastructure (AWS/Kubernetes), and cross-functional collaboration with product, security, and customer teams. I care about code quality, system reliability, and developer growth, and I improve how work gets done through clear communication, thoughtful prioritization, and shared ownership.
 
 ### Connect
 
