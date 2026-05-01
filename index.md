@@ -1,3 +1,7 @@
+---
+title: Katy Rotman
+---
+
 ### About Me
 
 I lead engineering teams and build production-grade systems with 15+ years of experience.
