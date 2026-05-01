@@ -3,6 +3,10 @@
 
 @import "jekyll-theme-cayman";
 
+.page-header {
+  padding: 1.5rem 2rem;
+}
+
 // Override the two-column layout with a single column
 .wrapper {
   width: 100%;
